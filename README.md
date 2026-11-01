@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nadav Tal
 
-<!--
-**nadavtal135/nadavtal135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software · Automation · Sports Technology
 
-Here are some ideas to get you started:
+I work in software implementation at **PlaySight**, helping bring AI-powered sports video systems into everyday use. I enjoy turning repetitive tasks and complex workflows into practical, easy-to-use tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+**Java · JavaScript · Python**
+
+My interests include workflow automation, web applications, and software that connects technology with sport and human movement.
+
+## Currently learning
+
+Deepening my foundations in Java, algorithms, and linear algebra through studies at the Open University of Israel.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nadav-tal-25935738b)
